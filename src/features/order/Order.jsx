@@ -23,8 +23,6 @@ function Order() {
     [fetcher],
   );
 
-  console.log(fetcher.data);
-
   const {
     id,
     status,
